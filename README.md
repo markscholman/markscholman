@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**markscholman/markscholman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='right'><img src="https://visitor-badge.glitch.me/badge?page_id=markscholman.visitor-badge"></p>
 
-Here are some ideas to get you started:
+Welcome on my Github page!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a Microsoft Azure automation project which includes Azure DevOps, Microsoft Azure and PowerShell.
+- 🌱 I’m currently learning C# and other web technologies to expand my knowledge beyond infrastructure. I am also learning Dapr to build/interact microservices architectures. Bicep is on my radar to replace my current ARM template knowledge on Azure Resource deployment.
+- 💬 Ask me about Microsoft Azure, the Azure Stack Family and automation.
+- 📫 How to reach me: 
+  - [Twitter](https://twitter.com/markscholman)
+  - [Facebook](https://facebook.com/markscholman)
+  - [YouTube](https://www.youtube.com/c/markscholman)
+  - [LinkedIn](https://www.linkedin.com/in/markscholman)
+  - [Website](https://markscholman.com)
