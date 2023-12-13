@@ -5,7 +5,7 @@
 Welcome on my Github page!
 
 - 🔭 I’m currently working on a Microsoft Azure automation project which includes Azure DevOps, Microsoft Azure and PowerShell.
-- 🌱 I’m currently learning C# and other web technologies to expand my knowledge beyond infrastructure. I am also learning Dapr to build/interact microservices architectures. Bicep is on my radar to replace my current ARM template knowledge on Azure Resource deployment.
+- 🌱 I’m currently learning C# and other web technologies to expand my knowledge beyond infrastructure. I am also learning Dapr to build/interact microservices architectures. Bicep is my new language to replace my current ARM template knowledge on Azure Resource deployment.
 - 💬 Ask me about Microsoft Azure, the Azure Stack Family and automation.
 - 📫 How to reach me: 
   - [Twitter](https://twitter.com/markscholman)
